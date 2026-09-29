@@ -1,0 +1,116 @@
+/* =========================================
+   Edrian C. Jugan - Portfolio Theme
+   Soft Light / Warm Academic Style
+   ========================================= */
+
+/* Overall page */
+html,
+body {
+    background: #fffdf7 !important;
+}
+
+/* Main page content */
+.bd-main {
+    background: #fffdf7 !important;
+}
+
+.bd-content {
+    background: #fffdf7 !important;
+    color: #333333 !important;
+}
+
+/* Header */
+.bd-header {
+    background: #fff8df !important;
+    border-bottom: 1px solid #ead9a8 !important;
+}
+
+/* Primary sidebar */
+.bd-sidebar-primary {
+    background: #fff8df !important;
+    border-right: 1px solid #ead9a8 !important;
+}
+
+/* Sidebar navigation */
+.bd-sidebar-primary .nav-link {
+    color: #4a4a4a !important;
+    border-radius: 6px;
+}
+
+/* Sidebar hover */
+.bd-sidebar-primary .nav-link:hover {
+    background: #ffefb5 !important;
+    color: #795500 !important;
+}
+
+/* Selected sidebar item */
+.bd-sidebar-primary .nav-link.active {
+    background: #ffe49a !important;
+    color: #664600 !important;
+    font-weight: 600;
+}
+
+/* Headings */
+h1,
+h2,
+h3,
+h4 {
+    color: #333333 !important;
+}
+
+/* Links */
+a {
+    color: #a66b00 !important;
+}
+
+a:hover {
+    color: #704900 !important;
+}
+
+/* Search box */
+.bd-search input,
+input.form-control {
+    background: #ffffff !important;
+    border: 1px solid #dfcf9d !important;
+    border-radius: 8px !important;
+}
+
+/* Code blocks */
+div.highlight,
+pre {
+    background: #faf6e9 !important;
+    border: 1px solid #eee2c4 !important;
+    border-radius: 8px !important;
+}
+
+/* Inline code */
+code {
+    background: #f6efd9 !important;
+    color: #765300 !important;
+    border-radius: 4px;
+    padding: 2px 5px;
+}
+
+/* Tables */
+table {
+    border-color: #eadfbf !important;
+}
+
+table thead th {
+    background: #ffefb5 !important;
+}
+
+table tbody td {
+    background: #fffdf7 !important;
+}
+
+/* Footer */
+.bd-footer {
+    background: #fff8df !important;
+    border-top: 1px solid #ead9a8 !important;
+}
+
+/* Remove color mode button */
+button.theme-switch-button {
+    display: none !important;
+}
