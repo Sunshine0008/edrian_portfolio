@@ -2,8 +2,9 @@ title: "Elective 4 - Deep Learning Portfolio"
 author: "Edrian C. Jugan"
 logo: logo.jpg
 copyright: "2026"
+
 html:
-  favicon: logo.jpg
+  favicon: logo.png
   use_issues_button: false
   use_repository_button: false
   use_download_button: true
