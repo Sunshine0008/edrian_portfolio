@@ -1,0 +1,18 @@
+format: jb-book
+root: intro
+
+parts:
+  - caption: Course
+    chapters:
+      - file: course_overview
+
+  - caption: Laboratory Tasks
+    chapters:
+      - file: activities/task2_forward_pass
+      - file: activities/task3_forward_backward
+      - file: activities/task4_linear_regression
+      - file: activities/task5_pytorch_tensors
+
+  - caption: Activities & Assignments
+    chapters:
+      - file: activities_assignments

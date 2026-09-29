@@ -1,0 +1,30 @@
+title: "Elective 4 - Deep Learning Portfolio"
+author: "Edrian C. Jugan"
+logo: logo.jpg
+copyright: "2026"
+html:
+  favicon: logo.jpg
+  use_issues_button: false
+  use_repository_button: false
+  use_download_button: true
+
+launch_buttons:
+  thebe: false
+
+execute:
+  execute_notebooks: off
+
+sphinx:
+  config:
+    extensions:
+      - sphinx_togglebutton
+      - sphinx_copybutton
+      - myst_nb
+      - jupyter_book
+      - sphinx_comments
+      - sphinx_external_toc
+      - sphinx.ext.intersphinx
+      - sphinx_design
+      - sphinx_book_theme
+      - sphinx_jupyterbook_latex
+      - sphinx_multitoc_numbering
