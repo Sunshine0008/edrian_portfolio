@@ -12,6 +12,8 @@ parts:
       - file: activities/task3_forward_backward
       - file: activities/task4_linear_regression
       - file: activities/task5_pytorch_tensors
+      - file: activities/task6_cnn_architecture
+      - file: activities/task7_Image_Classification_Using_Pre_trained_Model
 
   - caption: Activities & Assignments
     chapters:
